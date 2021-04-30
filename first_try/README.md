@@ -1,1 +1,6 @@
-Hello, World!)
+![](https://img.shields.io/badge/Python-3.9-blue)
+![](https://img.shields.io/badge/tensorflow-2.4.1-blue)
+![](https://img.shields.io/badge/NumPy-1.19.5-blue)
+![](https://img.shields.io/badge/matplotlib-3.2.2-blue)
+![](https://img.shields.io/badge/cv2-4.1.2-blue)
+![](https://img.shields.io/badge/scikit-0.22.2.post1-blue)
