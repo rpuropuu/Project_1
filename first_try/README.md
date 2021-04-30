@@ -64,3 +64,10 @@ ________
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/06.jpg)
 
 
+И четыре ошибочно классифицированные варианта:
+
+
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/11.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/12.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/10.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/13.jpg)
