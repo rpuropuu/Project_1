@@ -43,22 +43,23 @@ ________
 4. Из различных логовых файлов собирается статистика в одну строку для просмотра результатов работы сети по тестовой выборке. Если класс совпадает с предсказанным сетью, то метка класса - **зелёная**, иначе - **красная**. Коэфициэнт **mIoU** выводится в левом верхнем углу. Зона предсказания выводится **синим** цветом. Сначала три примера со средним коэфициентом попадания:
 
 
-![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/03.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/01.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/03.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/02.jpg)
 
 
 Далее два варианта с малым коэфициентом:
 
 
-![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/04.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/05.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/04.jpg)
 
 
 И четыре хороших коэфициэнта:
 
 
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/06.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/09.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/07.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/08.jpg)
 
