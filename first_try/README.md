@@ -77,4 +77,6 @@ ________
 
 Итоговая статистика по работе только с предоставленным датасетом и с использованием VGG в роли классифицирующего слоя:
 
-> mIoU 57%, classification accuracy 91%, 0.13ms, 2708 train,676 valid.
+```
+mIoU 57%, classification accuracy 91%, 0.13ms, 2708 train,676 valid.
+```
