@@ -31,8 +31,10 @@ _________
     - проведение требуемых замеров для отчёта
 5. Оформление
     - подготовка изображений с информацией
-    - составление пайплайна
+    - составление легенды
+    - статистика, оформленная в соответствии с заданием
     - README-файл на гитхабе
+6. Эпилог
 
 ________
 
@@ -71,3 +73,8 @@ ________
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/12.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/10.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/13.jpg)
+
+
+Итоговая статистика по работе только с предоставленным датасетом и с использованием VGG в роли классифицирующего слоя:
+
+> mIoU 57%, classification accuracy 91%, 0.13ms, 2708 train,676 valid.
