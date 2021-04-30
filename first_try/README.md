@@ -61,4 +61,4 @@ ________
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/06.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/07.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/08.jpg)
-![](https://github.com/rpuropuu/Project_1/blob/main/first_try/data/09.jpg)
+
