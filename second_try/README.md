@@ -37,8 +37,8 @@ _________
 
 
 ![](https://github.com/rpuropuu/Project_1/blob/main/second_try/data/27.jpg)
-![](https://github.com/rpuropuu/Project_1/blob/main/second_try/data/28.jpg)
 ![](https://github.com/rpuropuu/Project_1/blob/main/second_try/data/26.jpg)
+![](https://github.com/rpuropuu/Project_1/blob/main/second_try/data/28.jpg)
 
 
 Тут было получше, дальше немного ошибок классификации:
